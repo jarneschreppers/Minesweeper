@@ -1,0 +1,12 @@
+{
+  "first-name": "Jarne",
+  "last-name": "Schreppers",
+  "github-url": "https://github.com/ucll-vgo2122/minesweeper-jarneschreppers",
+  "framework": "WPF",
+  "extensions": [
+    "After losing, show all mines and highlight the last uncovered square (which contained a mine)",
+    "Choice between themes (e.g. dark and light theme)",
+    "Animation (NOT gifs, but WPF animations)",
+    "Different font color depending of amount of neighboring mines"
+  ]
+}
